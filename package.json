@@ -1,6 +1,6 @@
 {
   "name": "kmeans-same-size",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A implementation of a variant of k-means algorithm to get groups from the waypoints with the same size",
   "main": "src/index.js",
   "scripts": {
