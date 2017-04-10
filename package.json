@@ -1,0 +1,25 @@
+{
+  "name": "kmeans-same-size",
+  "version": "1.0.0",
+  "description": "A implementation of a variant of k-means algorithm to get groups from the waypoints with the same size",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalarrea/kmeans-same-size.git"
+  },
+  "keywords": [
+    "k-means",
+    "algorithm",
+    "same",
+    "size"
+  ],
+  "author": "Leonardo Larrea D. <leonardo.larrea1@gmail.com> (http://leonardolarrea.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jalarrea/kmeans-same-size/issues"
+  },
+  "homepage": "https://github.com/jalarrea/kmeans-same-size#readme"
+}
